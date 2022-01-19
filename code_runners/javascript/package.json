@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "parsetrace": "^0.2.0",
+    "vm2": "^3.9.2"
+  }
+}
